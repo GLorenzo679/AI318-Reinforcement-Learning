@@ -1,6 +1,6 @@
-# AI18-Reinforcement-Learning
+# AI318-Reinforcement-Learning
 
-My solutions for "AI18-Reinforcement Learning" laboratories, a.y. 2024-2025 - Télécom Paris.
+My solutions for "AI318-Reinforcement Learning" laboratories, a.y. 2024-2025 - Télécom Paris.
 
 ## Laboratories:
 
