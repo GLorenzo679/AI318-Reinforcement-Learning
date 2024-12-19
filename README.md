@@ -1,6 +1,6 @@
 # AI18-Reinforcement-Learning
 
-My solutions for "AI18-Reinforcement Learning" laboratories, a.y. 2023-2024 - Télécom Paris.
+My solutions for "AI18-Reinforcement Learning" laboratories, a.y. 2024-2025 - Télécom Paris.
 
 ## Laboratories:
 
@@ -8,3 +8,4 @@ My solutions for "AI18-Reinforcement Learning" laboratories, a.y. 2023-2024 - T�
 - [TP2 - Dynamic Programming](TP2)
 - [TP3 - Online Evaluation](TP3)
 - [TP4 - Online Control](TP4)
+- [TP5 - Gradient Methods](TP5)
