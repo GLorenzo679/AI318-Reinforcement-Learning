@@ -1,6 +1,6 @@
 # AI318-Reinforcement-Learning
 
-My solutions for "AI318-Reinforcement Learning" laboratories, a.y. 2024-2025 - Télécom Paris.
+My solutions for "IA318-Reinforcement Learning" laboratories, a.y. 2024-2025 - Télécom Paris.
 
 ## Laboratories:
 
@@ -9,3 +9,5 @@ My solutions for "AI318-Reinforcement Learning" laboratories, a.y. 2024-2025 - T
 - [TP3 - Online Evaluation](TP3)
 - [TP4 - Online Control](TP4)
 - [TP5 - Gradient Methods](TP5)
+- [TP6 - Bandit](TP6)
+- [TP7 - Parametric Bandit](TP7)
